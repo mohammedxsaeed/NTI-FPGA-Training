@@ -1,7 +1,0 @@
-Running: xsim.dir/Rising_edge_mealy_tb_behav/xsimk.exe -simmode gui -wdb Rising_edge_mealy_tb_behav.wdb -simrunnum 0 -socket 63828
-Design successfully loaded
-Design Loading Memory Usage: 11032 KB (Peak: 11032 KB)
-Design Loading CPU Usage: 30 ms
-Simulation completed
-Simulation Memory Usage: 12220 KB (Peak: 12220 KB)
-Simulation CPU Usage: 61 ms

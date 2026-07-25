@@ -1,43 +1,70 @@
-# NTI FPGA Training: Digital Design & RISC-V Implementation
+# NTI Training — Digital Design Using FPGA
 
-This repository contains the complete work from the **Digital Design Using FPGA** training program at the **National Telecommunication Institute (NTI)**. It includes fundamental digital design labs and a final project implementing a RISC-V processor.
+This repository contains all labs and the final team project from the
+**National Telecommunication Institute (NTI)** "Digital Design Using FPGA"
+training program — Verilog RTL design, simulation, and FPGA deployment.
 
-## 📂 Repository Structure
+## ⭐ Featured: Final Project
 
-- **[Single-Cycle-RV32I/](./Single-Cycle-RV32I/)**: The final project - A 32-bit RISC-V processor implementation.
-- **[Labs/](./Labs/)**: A collection of labs covering various digital design concepts (ALUs, FSMs, Counters, etc.).
+**[Single-Cycle RV32I RISC-V Processor](./Final-Project-RV32I)** — a working
+CPU implementing a 14-instruction subset of RV32I, designed in Verilog,
+verified in simulation, and deployed on FPGA for a live demo. See its
+[dedicated README](./Final-Project-RV32I/README.md) for the full write-up.
 
-## 🚀 Final Project: Single-Cycle RV32I Processor
+## Labs
 
-The core of this repository is a **Single-Cycle 32-bit RISC-V (RV32I) Processor**. 
+| # | Lab | Topic |
+|---|---|---|
+| 1 | [Day1_Full_Adder](./labs/Day1_Full_Adder) | Full adder — dataflow / structural / hierarchical |
+| 2 | [MUX](./labs/MUX) | Parameterized multiplexer |
+| 3 | [Priority_Encoder](./labs/Priority_Encoder) | Priority encoder (two variants) |
+| 4 | [Generic_Counter](./labs/Generic_Counter) | Parameterized counter |
+| 5 | [Debouncing_Circuit](./labs/Debouncing_Circuit) | Switch debouncer |
+| 6 | [Rising_Edge_Detector](./labs/Rising_Edge_Detector) | Edge detector — Mealy vs. Moore |
+| 7 | [Edge_Detector_FSM](./labs/Edge_Detector_FSM) | FSM-based edge detector |
+| 8 | [FSM_2_Segment](./labs/FSM_2_Segment) | FSM-driven 7-segment display |
+| 9 | [Sequence_Detector_Overlapping_Nonoverlapping](./labs/Sequence_Detector_Overlapping_Nonoverlapping) | Sequence detectors — overlapping/non-overlapping, Mealy/Moore |
+| 10 | [Even_Parity_Generator_Generate_Block](./labs/Even_Parity_Generator_Generate_Block) | Parity generator using `generate` blocks |
+| 11 | [Stream_Parity_Generator](./labs/Stream_Parity_Generator) | Streaming parity generator |
+| 12 | [Up_Down_Counter](./labs/Up_Down_Counter) | Up/down counter — behavioral/structural/gate-level |
+| 13 | [Lab03_ALU](./labs/Lab03_ALU) | Standalone ALU |
+| 14 | [Lab03_SIPO_ALU](./labs/Lab03_SIPO_ALU) | SIPO + PISO + RAM + ALU system |
+| 15 | [Lab04_Top_System](./labs/Lab04_Top_System) | Full top-level system integration |
+| 16 | [Lab06_Controller](./labs/Lab06_Controller) | Controller / control unit |
+| 17 | [Lab07_Register](./labs/Lab07_Register) | Parameterized register |
+| 18 | [Lab08_Bidirectional_Memory](./labs/Lab08_Bidirectional_Memory) | Bidirectional memory |
+| 19 | [Driver_Module](./labs/Driver_Module) | Parameterized output driver |
 
-### Highlights:
-- **ISA**: Supports a subset of RV32I instructions (Arithmetic, Logic, Memory, Control Flow).
-- **Design**: Fully implemented in Verilog with a clean, modular architecture.
-- **Verification**: Verified using a comprehensive testbench and assembly programs.
-- **FPGA Ready**: Synthesizable and tested on FPGA hardware.
+Each lab folder contains its own `README.md`, an `rtl/` folder with the
+synthesizable Verilog sources, and a `tb/` folder with testbenches where one
+was written.
 
-For more details on the processor design, instruction set, and simulation instructions, please refer to the [Single-Cycle-RV32I README](./Single-Cycle-RV32I/README.md).
+## Repository Structure
 
-## 📚 Training Labs Overview
+```
+NTI-Training/
+├── README.md
+├── .gitignore
+├── Final-Project-RV32I/     ← the flagship final project
+│   ├── README.md
+│   ├── rtl/
+│   ├── tb/
+│   ├── sim/
+│   ├── programs/
+│   └── docs/
+└── labs/
+    ├── Day1_Full_Adder/
+    ├── MUX/
+    ├── ...
+    └── Driver_Module/
+```
 
-The `Labs/` directory contains various modules implemented during the training:
+## Tools Used
 
-| Lab Directory | Description | Key Concepts |
-| :--- | :--- | :--- |
-| `ALU_LAB3` | Arithmetic Logic Unit | Combinational logic, arithmetic operations. |
-| `FSM_2_segment` | 2-Segment Finite State Machine | Sequential logic, state transitions. |
-| `Sequence_detector_overlapping_nonoverlapping` | Overlapping/Non-overlapping Detector | FSM design, pattern matching. |
-| `Generic_Counter` | Parameterized Counter | Synchronous design, parameters. |
-| `Debouncing_Circuit` | Input Debouncer | Hardware interfacing, clock division. |
-| `LAB8_Bidirectional_memory` | Bidirectional Memory | Memory interfacing, tri-state buffers. |
-| `LAB4` | Complex System Lab | Top-level integration, multiple modules. |
-| `Controller_LAB6` | Control Unit Design | Opcode decoding, control signals. |
+- Verilog HDL
+- Xilinx Vivado (design, synthesis, FPGA deployment, and simulation)
+- ModelSim / Questa (waveform simulation for the final project)
 
-## 🛠️ Tools & Technologies
-- **Hardware Description Language**: Verilog HDL
-- **Synthesis & Simulation**: Xilinx Vivado, ModelSim, Quartus
-- **Architecture**: RISC-V (RV32I)
+## Author
 
----
-*Completed as part of the NTI Digital Design Training Program.*
+Mohammed — Electronics & Communication Engineering, Helwan University

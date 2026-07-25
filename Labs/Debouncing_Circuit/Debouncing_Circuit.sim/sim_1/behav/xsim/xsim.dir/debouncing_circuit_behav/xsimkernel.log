@@ -1,7 +1,0 @@
-Running: xsim.dir/debouncing_circuit_behav/xsimk.exe -simmode gui -wdb debouncing_circuit_behav.wdb -simrunnum 0 -socket 57749
-Design successfully loaded
-Design Loading Memory Usage: 11004 KB (Peak: 11004 KB)
-Design Loading CPU Usage: 62 ms
-Simulation completed
-Simulation Memory Usage: 11888 KB (Peak: 11888 KB)
-Simulation CPU Usage: 93 ms

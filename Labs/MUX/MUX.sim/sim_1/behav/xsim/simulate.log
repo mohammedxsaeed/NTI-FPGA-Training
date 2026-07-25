@@ -1,7 +1,0 @@
-Time resolution is 1 ps
-At time 1 sel=0 in0=10101 in1=00000, mux_out=10101
-At time 2 sel=0 in0=01010 in1=00000, mux_out=01010
-At time 3 sel=1 in0=00000 in1=10101, mux_out=10101
-At time 4 sel=1 in0=00000 in1=01010, mux_out=01010
-TEST PASSED
-$finish called at time : 4 ns : File "D:/ECE/FPGA Training NTI/multiplexor_test.v" Line 43

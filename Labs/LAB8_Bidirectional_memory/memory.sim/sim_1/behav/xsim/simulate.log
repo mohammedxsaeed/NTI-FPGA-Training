@@ -1,3 +1,0 @@
-Time resolution is 1 ps
->>> MEMORY TB PASSED: 21 checks, 0 errors <<<
-$stop called at time : 820 ns : File "D:/ECE/FPGA Training NTI/memory_LAB8/memory.srcs/sources_1/new/memory_tb.v" Line 111

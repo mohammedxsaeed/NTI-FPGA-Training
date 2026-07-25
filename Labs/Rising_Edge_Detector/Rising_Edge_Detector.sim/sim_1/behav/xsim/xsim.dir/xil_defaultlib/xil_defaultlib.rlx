@@ -1,8 +1,0 @@
-0.7
-2020.2
-May 22 2025
-00:13:55
-D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
-D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.srcs/sources_1/new/Rising_edge_mealy.v,1784940180,verilog,,D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.srcs/sources_1/new/Rising_edge_moore.v,,Rising_edge_mealy,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
-D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.srcs/sources_1/new/Rising_edge_mealy_tb.v,1784940479,verilog,,,,edge_detectors_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
-D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.srcs/sources_1/new/Rising_edge_moore.v,1784940194,verilog,,D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.srcs/sources_1/new/Rising_edge_mealy_tb.v,,Rising_edge_detector,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

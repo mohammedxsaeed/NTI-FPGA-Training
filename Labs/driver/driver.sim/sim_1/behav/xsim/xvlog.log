@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/driver/driver.srcs/sources_1/new/driver.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module driver
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/driver_test.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module driver_test

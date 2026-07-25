@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Controller_LAB6/Controller_LAB6.srcs/sources_1/new/controller.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module controller
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/controller_test.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module controller_test
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Controller_LAB6/Controller_LAB6.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
