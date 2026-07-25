@@ -1,11 +1,5 @@
-# Lab 06 — Controller
-
-A control-unit style FSM/controller module, part of the progression toward the datapath + control-unit architecture used in the final RV32I processor.
-
-## Files
-
-**rtl/**
-- `controller.v`
-
-## How to Simulate
-Open the project in Xilinx Vivado (or any Verilog simulator), add the files in `rtl/` as design/simulation sources, and run behavioral simulation.
+# Lab 06: Controller Unit
+Generating control signals for a simple processor based on instruction opcodes.
+### I/O Ports
+- **Inputs**: `opcode` (3-bit), `zero` (1-bit status flag).
+- **Outputs**: `sel_pc`, `rd`, `ld_ir`, `inc_pc`, `halt`, `ld_pc`, `data_e`, `ld_ac`, `wr`.

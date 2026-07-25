@@ -1,11 +1,5 @@
-# Multiplexer
-
-A parameterized N-to-1 multiplexer (default width = 5) used to practice parameterized module design in Verilog.
-
-## Files
-
-**rtl/**
-- `Mux.v`
-
-## How to Simulate
-Open the project in Xilinx Vivado (or any Verilog simulator), add the files in `rtl/` as design/simulation sources, and run behavioral simulation.
+# Multiplexer (MUX)
+2-to-1 Multiplexer with parameterized data width.
+### I/O Ports
+- **Inputs**: `sel`, `in0`, `in1` (5-bit).
+- **Outputs**: `mux_out` (5-bit).
