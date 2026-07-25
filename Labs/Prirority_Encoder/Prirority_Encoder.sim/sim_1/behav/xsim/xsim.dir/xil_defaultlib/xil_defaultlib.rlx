@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.srcs/sources_1/new/P_ENC.v,1783969902,verilog,,D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.srcs/sources_1/new/P_ENC_Z.v,,P_ENC_X,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.srcs/sources_1/new/P_ENC_Z.v,1783969995,verilog,,D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.srcs/sources_1/new/P_ENC_tb.v,,P_ENC_Z,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.srcs/sources_1/new/P_ENC_tb.v,1783968662,verilog,,,,P_ENC_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

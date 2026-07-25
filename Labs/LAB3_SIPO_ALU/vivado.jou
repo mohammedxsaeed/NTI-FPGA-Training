@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Jul 25 04:24:51 2026
+# Process ID         : 19904
+# Current directory  : D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent27364 D:\ECE\FPGA Training NTI\LAB3_SIPO_ALU\LAB3_SIPO_ALU.xpr
+# Log file           : D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/vivado.log
+# Journal file       : D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU\vivado.jou
+# Running On         : MOHAMMED-SAEED
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz
+# CPU Frequency      : 2592 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16960 MB
+# Swap memory        : 6082 MB
+# Total Virtual      : 23043 MB
+# Available Virtual  : 5775 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.xpr}
+update_compile_order -fileset sources_1

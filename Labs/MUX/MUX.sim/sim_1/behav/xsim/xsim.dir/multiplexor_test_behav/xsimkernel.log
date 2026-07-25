@@ -1,0 +1,7 @@
+Running: xsim.dir/multiplexor_test_behav/xsimk.exe -simmode gui -wdb multiplexor_test_behav.wdb -simrunnum 0 -socket 60384
+Design successfully loaded
+Design Loading Memory Usage: 11052 KB (Peak: 11052 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 12012 KB (Peak: 12012 KB)
+Simulation CPU Usage: 46 ms

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.srcs/sources_1/new/P_ENC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module P_ENC_X
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.srcs/sources_1/new/P_ENC_Z.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module P_ENC_Z
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.srcs/sources_1/new/P_ENC_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module P_ENC_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Prirority_Encoder/Prirority_Encoder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

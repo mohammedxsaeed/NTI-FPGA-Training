@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.srcs/sources_1/new/Rising_edge_mealy.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Rising_edge_mealy
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.srcs/sources_1/new/Rising_edge_moore.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Rising_edge_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ECE/FPGA Training NTI/Rising_Edge_Detector/Rising_Edge_Detector.srcs/sources_1/new/Rising_edge_mealy_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module edge_detectors_tb

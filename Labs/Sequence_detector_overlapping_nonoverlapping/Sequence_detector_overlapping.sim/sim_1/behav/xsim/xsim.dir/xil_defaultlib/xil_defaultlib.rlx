@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/non_overlapping_seq_detector.v,1784676336,verilog,,D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/nonoverlapping_seq_detector_moore.v,,non_overlapping_seq_detector_mealy,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/nonoverlapping_seq_detector_moore.v,1784675713,verilog,,D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/overlapping_seq_detector.v,,nonoverlapping_seq_detector_moore,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/overlapping_seq_detector.v,1784676310,verilog,,D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/overlapping_seq_detector_moore.v,,overlapping_seq_detector_mealy,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/overlapping_seq_detector_moore.v,1784676162,verilog,,D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/seq_detector_TB.v,,overlapping_seq_detector_moore,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/Sequence_detector_overlapping_nonoverlapping/Sequence_detector_overlapping.srcs/sources_1/new/seq_detector_TB.v,1784740003,verilog,,,,seq_detector_TB,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

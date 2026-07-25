@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+At time 1 data_en=0 data_in=xxxxxxxx data_out=zzzzzzzz
+At time 2 data_en=1 data_in=01010101 data_out=01010101
+At time 3 data_en=1 data_in=10101010 data_out=10101010
+TEST PASSED
+$finish called at time : 3 ns : File "D:/ECE/FPGA Training NTI/driver_test.v" Line 40

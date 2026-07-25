@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+
+--- Test 1: Write and Process ADD ---
+   [PASSED] ALU ADD (10 + 5) | alu_out= 15
+
+--- Test 2: Write and Process SUB ---
+   [PASSED] ALU SUB (20 - 10) | alu_out= 10
+
+--- Test 3: Write and Process AND ---
+   [PASSED]  AND (0 & 255), a_is_zero flag=1 | alu_out=  0
+
+>>> ALL 3 TESTS PASSED <<<
+$stop called at time : 1397 ns : File "D:/ECE/FPGA Training NTI/LAB4/LAB4.srcs/sources_1/new/TOP_TB.v" Line 132
+INFO: xsimkernel Simulation Memory Usage: 19804 KB (Peak: 19804 KB), Simulation CPU Usage: 16030 ms

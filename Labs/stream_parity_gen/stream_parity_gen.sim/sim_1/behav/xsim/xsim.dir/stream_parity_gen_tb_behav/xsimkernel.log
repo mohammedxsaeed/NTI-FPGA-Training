@@ -1,0 +1,7 @@
+Running: xsim.dir/stream_parity_gen_tb_behav/xsimk.exe -simmode gui -wdb stream_parity_gen_tb_behav.wdb -simrunnum 0 -socket 51442
+Design successfully loaded
+Design Loading Memory Usage: 11088 KB (Peak: 11088 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 12064 KB (Peak: 12064 KB)
+Simulation CPU Usage: 124 ms

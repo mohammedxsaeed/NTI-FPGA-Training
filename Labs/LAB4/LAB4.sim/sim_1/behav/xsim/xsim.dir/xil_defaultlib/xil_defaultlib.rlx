@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.srcs/sources_1/new/ALU.v,1784948252,verilog,,D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.srcs/sources_1/new/PISO.v,,ALU,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.srcs/sources_1/new/PISO.v,1784946517,verilog,,D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.srcs/sources_1/new/RAM.v,,PISO,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.srcs/sources_1/new/RAM.v,1783806313,verilog,,D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.srcs/sources_1/new/SIPO.v,,RAM,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.srcs/sources_1/new/SIPO.v,1783617684,verilog,,D:/ECE/FPGA Training NTI/LAB4/LAB4.srcs/sources_1/new/TOP_SYSTEM.v,,SIPO,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/LAB3_SIPO_ALU/LAB3_SIPO_ALU.srcs/sources_1/new/SIPO_ALU.v,1783609453,verilog,,D:/ECE/FPGA Training NTI/LAB4/LAB4.srcs/sources_1/new/TOP_SYSTEM.v,,SIPO_ALU,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/LAB4/LAB4.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/ECE/FPGA Training NTI/LAB4/LAB4.srcs/sources_1/new/TOP_SYSTEM.v,1783864007,verilog,,D:/ECE/FPGA Training NTI/LAB4/LAB4.srcs/sources_1/new/TOP_TB.v,,TOP_SYSTEM,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ECE/FPGA Training NTI/LAB4/LAB4.srcs/sources_1/new/TOP_TB.v,1784950452,verilog,,,,TOP_SYSTEM_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
