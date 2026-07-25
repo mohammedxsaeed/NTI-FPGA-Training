@@ -23,14 +23,16 @@ For more details on the processor design, instruction set, and simulation instru
 
 The `Labs/` directory contains various modules implemented during the training:
 
-| Lab | Description | Key Concepts |
+| Lab Directory | Description | Key Concepts |
 | :--- | :--- | :--- |
-| `alu_lab3` | Arithmetic Logic Unit | Combinational logic, arithmetic operations. |
-| `fsm_2_segment` | 2-Segment Finite State Machine | Sequential logic, state transitions. |
-| `sequence_detector` | Overlapping/Non-overlapping Detector | FSM design, pattern matching. |
-| `generic_counter` | Parameterized Counter | Synchronous design, parameters. |
-| `debouncing_circuit` | Input Debouncer | Hardware interfacing, clock division. |
-| `lab8_bidir_memory` | Bidirectional Memory | Memory interfacing, tri-state buffers. |
+| `ALU_LAB3` | Arithmetic Logic Unit | Combinational logic, arithmetic operations. |
+| `FSM_2_segment` | 2-Segment Finite State Machine | Sequential logic, state transitions. |
+| `Sequence_detector_overlapping_nonoverlapping` | Overlapping/Non-overlapping Detector | FSM design, pattern matching. |
+| `Generic_Counter` | Parameterized Counter | Synchronous design, parameters. |
+| `Debouncing_Circuit` | Input Debouncer | Hardware interfacing, clock division. |
+| `LAB8_Bidirectional_memory` | Bidirectional Memory | Memory interfacing, tri-state buffers. |
+| `LAB4` | Complex System Lab | Top-level integration, multiple modules. |
+| `Controller_LAB6` | Control Unit Design | Opcode decoding, control signals. |
 
 ## 🛠️ Tools & Technologies
 - **Hardware Description Language**: Verilog HDL
