@@ -44,4 +44,3 @@ NTI-Training/
 - **Architecture**: RISC-V Open ISA
 
 ---
-*This repository serves as a professional portfolio for digital design and FPGA engineering skills acquired during the NTI training program.*
